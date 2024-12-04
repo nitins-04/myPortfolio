@@ -1,5 +1,6 @@
 # My Portfolio Website
 My personal website that contains my projects, contact information, and additional information about me. ☺️
+Continuous updates will be posted so stay tuned!👀
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
